@@ -1,9 +1,9 @@
 # maestas-game
 
-## This is a simple Brick Breaker Game writen in C++.
+## This is a simple Brick Breaker Game writen in C++
 
 ### To Run this file,
-1. Make Sure you have [TurboC](https://developerinsider.co/downloading/?download=https://github.com/vineetchoudhary/turbocpp/releases/download/v3.2/Turbo.C.3.2.zip?raw=true&after=https://developerinsider.co/c-and-cpp-insider/) and .NET Framework [4.5](https://download.microsoft.com/download/B/A/4/BA4A7E71-2906-4B2D-A0E1-80CF16844F5F/dotNetFx45_Full_setup.exe) or above installed
+1. Make Sure you have [TurboC++](https://github.com/vineetchoudhary/turbocpp/releases/download/v3.2/Turbo.C.3.2.zip) and .NET Framework [4.5](https://download.microsoft.com/download/B/A/4/BA4A7E71-2906-4B2D-A0E1-80CF16844F5F/dotNetFx45_Full_setup.exe) or above installed
 1. [Clone](https://github.com/Deepak710/maestas-game.git)/[Download](https://github.com/Deepak710/maestas-game/archive/master.zip) this repo and paste in the TurboC folder
 1. Run JUGGLER.CPP using TurboC
 
