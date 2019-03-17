@@ -16,4 +16,4 @@
 1. There is a cheatcode which will allow you to skip the current level. Forgot the code (which is to be entered in the pause menu). But this wont give you any points.
 1. Get the project report [here](https://drive.google.com/open?id=0Bw6HCoOjc27ZYnFBR1VRTlpCY2JGV2E0SzdOVjhiVm1wUUdR)
 
-Contact Me: [Telegram](https://web.telegram.org/#/im?p=@AzorAhoy)
+Contact Me: [Telegram](https://t.me/AzorAhoy)
